@@ -1,7 +1,517 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112f446e-4aee-4f6a-b6fd-399bcf8d828f" name="Default" comment="" />
+    <list default="true" id="112f446e-4aee-4f6a-b6fd-399bcf8d828f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript  vscode篇.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript vs篇 入门.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/.vs/JsTankGame/v14/.suo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/.vs/config/applicationhost.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/JsTankGame 1.0.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/ETank/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/ETank/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/ETank/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/ETank/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Explosion/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/91.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/98.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/MyMaps/99.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Shell/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Shell/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Tank/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Tank/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Tank/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/Tank/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/orginal/ETank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/orginal/MyMaps.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/orginal/Shell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/orginal/Tank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/images/orginal/explosion.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/MicrosoftAjax.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/Common/Rectangle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/Common/SpriteBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/ConcreteSprite/EnemyTank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/ConcreteSprite/Explosion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/ConcreteSprite/PlayerTank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/ConcreteSprite/Shell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/ConcreteSprite/TankBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/Enum/CollisionType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/Enum/Direction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/GameManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/Interface/ICollidable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/js/hxy/JsGame/SpriteManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 1.0/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/JsTankGame 2.0.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/_Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/bin/JsTankGame 2.0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/bin/JsTankGame 2.0.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/ETank/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/ETank/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/ETank/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/ETank/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Explosion/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/91.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/98.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/MyMaps/99.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Shell/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Shell/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Tank/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Tank/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Tank/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/Tank/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/orginal/ETank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/orginal/MyMaps.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/orginal/Shell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/orginal/Tank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/images/orginal/explosion.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/Helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/Helper.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/Helper.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Common/Rectangle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Common/Rectangle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Common/Rectangle.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Common/SpriteBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Common/SpriteBase.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Common/SpriteBase.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/EnemyTank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/EnemyTank.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/EnemyTank.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/Explosion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/Explosion.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/Explosion.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/PlayerTank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/PlayerTank.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/PlayerTank.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/Shell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/Shell.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/Shell.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/TankBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/TankBase.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/ConcreteSprite/TankBase.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Enum/CollisionType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Enum/CollisionType.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Enum/CollisionType.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Enum/Direction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Enum/Direction.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Enum/Direction.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/GameManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/GameManager.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/GameManager.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Interface/ICollidable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Interface/ICollidable.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Interface/ICollidable.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Interface/ISpriteManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Interface/ISpriteManager.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/Interface/ISpriteManager.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/SpriteManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/SpriteManager.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/JsGame/SpriteManager.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/KeyCodes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/KeyCodes.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/js/hxy/KeyCodes.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/JsTankGame 2.0.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/JsTankGame 2.0.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/JsTankGame 2.0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/JsTankGame 2.0.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame 2.0/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame.v12.suo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/JsTankGame.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/JsTankGame.csproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/_Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/ETank/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/ETank/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/ETank/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/ETank/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Explosion/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/91.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/98.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/MyMaps/99.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Shell/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Shell/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Tank/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Tank/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Tank/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/Tank/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/orginal/ETank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/orginal/MyMaps.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/orginal/Shell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/orginal/Tank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/images/orginal/explosion.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/EventHandlers.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/EventList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/EventList.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/EventList.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/Helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/Helper.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/Helper.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/CollisionManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/CollisionManager.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/CollisionManager.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Common/Rectangle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Common/Rectangle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Common/Rectangle.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Common/SpriteBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Common/SpriteBase.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Common/SpriteBase.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Barrier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Barrier.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Barrier.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/EnemyTank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/EnemyTank.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/EnemyTank.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Explosion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Explosion.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Explosion.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/PlayerTank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/PlayerTank.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/PlayerTank.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Shell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Shell.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/Shell.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/TankBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/TankBase.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/ConcreteSprite/TankBase.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Enum/CollisionType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Enum/CollisionType.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Enum/Direction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Enum/Direction.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/Enum/Direction.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/GameManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/GameManager.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/GameManager.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/SpriteManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/SpriteManager.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/JsGame/SpriteManager.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/KeyCodes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/KeyCodes.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/js/hxy/KeyCodes.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/03 多种方式创建对象/15 typescript/typescript 坦克游戏/JsTankGame/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +529,7 @@
         <entry file="file://$PROJECT_DIR$/02 面向对象进阶/05 引用类型值类型/01 变量的内存分配 数值型.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -29,7 +539,7 @@
         <entry file="file://$PROJECT_DIR$/02 面向对象进阶/05 引用类型值类型/02 变量的内存分配 字符串.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -39,7 +549,7 @@
         <entry file="file://$PROJECT_DIR$/02 面向对象进阶/05 引用类型值类型/03 变量的内存分配 数组.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,6 +644,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03 多种方式创建对象" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,18 +830,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502681014906</updated>
-      <workItem from="1502681018099" duration="18390000" />
+      <workItem from="1502681018099" duration="18544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18390000" />
+    <option name="totallyTimeSpent" value="18544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -733,7 +1256,7 @@
     <entry file="file://$PROJECT_DIR$/02 面向对象进阶/05 引用类型值类型/01 变量的内存分配 数值型.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -741,7 +1264,7 @@
     <entry file="file://$PROJECT_DIR$/02 面向对象进阶/05 引用类型值类型/02 变量的内存分配 字符串.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -749,7 +1272,7 @@
     <entry file="file://$PROJECT_DIR$/02 面向对象进阶/05 引用类型值类型/03 变量的内存分配 数组.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
