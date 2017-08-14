@@ -66,9 +66,19 @@
             }
         });
         var that = this;
-        //定义一个变量 ：这个变量可以被对象中所有的属性访问到。。。。
+        /*
+        * 我们定义一个config对象保存当前对象的临时变量，这样其他所有成员都可以访问
+         统一管理
+         方便内存回收
+         解决代码重复性问题：一定要保证你写的代码不要有重复的。。。。。
+         如何避免重复：利用函数来解决代码的复用性
+         重复性带来的危害：一旦需求变更，需要更改代码，那么所有重复的地方都需要更改
+        * */
+        //我们定义一个config对象保存当前对象的临时变量 这样其他所有成员都可以访问了
+        //定义一个变量 ：这个变量可以被对象中所有的属性访问到。。。。不止是dom 其他的都是可以的
         /*避免重复，减少内存*/
-        /*统一管理*/
+        /*统一管理 方便内存回收*/
+        /*解决代码重复行问题*/
         this.config = {
             btnConfirm: document.getElementById('btn'),
             btnBuy: document.getElementById('btn'),
@@ -85,8 +95,8 @@
         function bindDOM(){
             /*绑定元素*/
             /*通过点语法访问对象中的属性或者方法*/
-            that.config.name.innerHTML=that.name
-            that.config.price.innerHTML=that.price
+            that.config.domProductName.innerHTML=that.name
+            that.config.domProductPrice.innerHTML=that.price
             that.config.des.innerHTML=that.description
             that.config.youhuijia.innerHTML=that.youhuijia
             that.config.zhekou.innerHTML=that.zhekou
@@ -95,7 +105,7 @@
         }
         function bindEvents(){
             /*绑定事件*/
-            that.config.btn.onclick = function(){
+            that.config.btnBuy.onclick = function(){
                 that.addToCart()
             }
         }

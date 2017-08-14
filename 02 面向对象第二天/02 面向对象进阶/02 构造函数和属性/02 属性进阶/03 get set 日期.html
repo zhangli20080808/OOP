@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title></title>
+    <title>Get set 取值器 设置器</title>
 </head>
 <body>
 <div id="itemInfo">
@@ -33,7 +33,8 @@
         this.zhekou = ''
         this.sales = ''
         this.produceDate
-        /*我们的需求：自动计算打折后的价格*/
+
+        /* 取值器 语法规范 我们的需求：自动计算打折后的价格*/
         Object.defineProperty(this, "price", {
             get: function () {return price*0.9;},
             set: function (value) {

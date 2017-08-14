@@ -22,6 +22,13 @@
 </html>
 
 <script>
+
+    /*    给属性添加权限
+     比如 文件系统 我们可以设置只允许访问,不可以修改
+
+     如何设置某个属性可读
+
+     如何设置??*/
     function dateFormat(date,format){
         var o = {
             "M+" : date.getMonth()+1, //month
@@ -55,7 +62,9 @@
         /*我们的需求：自动计算打折后的价格*/
         Object.defineProperty(this, "price", {
             value:5000000,
-            writable: t,
+            /*设置某个属性是否可写  默认是可写的  false是不能写的
+             */
+            writable: true,
         });
         Object.defineProperty(this, "produceDate", {
             get: function () {

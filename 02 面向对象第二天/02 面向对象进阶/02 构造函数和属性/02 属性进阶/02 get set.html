@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title></title>
+    <title>Get set 取值器 设置器</title>
 </head>
 <body>
 <div id="itemInfo">
@@ -44,7 +44,24 @@
             }
           }
         })
-        /*形象的理解：包装*/
+        /*形象的理解：包装  this表示对当前的对象的一个属性price 属性包装起来
+        * 作用
+         * 对属性封装一些操作:
+             比如判断,校验,默认值等等
+
+             保护某些属性
+
+         Object.defineProperty（a，b，c）;
+          a:须要属性设置的对象 
+         b:须要设置的属性名，（键值） 
+         c:是一个用于描述属性值得json数据.这个json数占领configurable，eumerable，writable，
+         value构成 configurable:
+         1.可否被删除，
+         2.他的属性值可否被批改.
+         3.可否把属性设置成接见器属性，默认是true，可以删除，，批改，设置 eumerable:可否被for-in轮回到 writable:默示属性值可否被批改 value:属性值.
+
+         高级开发工程师编写一个对象，为了防止别人使用的时候限制某些权限，可以使用该方法
+        */
         Object.defineProperty(this, "price", {
             get: function () {return price*0.9;},
             set: function (value) {
