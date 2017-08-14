@@ -34,6 +34,16 @@
         this.zhekou = ''
         this.sales = ''
         /*我们的需求：自动计算打折后的价格*/
+        Object.defineProperty(this,'price',{
+          get:function(){return price*0.4}
+          set: function(value){
+            if(value>10000){
+              alert(1)
+            }else {
+              price = value;
+            }
+          }
+        })
         /*形象的理解：包装*/
         Object.defineProperty(this, "price", {
             get: function () {return price*0.9;},
@@ -93,7 +103,7 @@
 
         /*给对象的赋值赋值，也可以新增属性*/
         iphone.name='iphone7'
-        iphone.price=6000
+        iphone.price=9000
         iphone.description='手机中的战斗机'
         iphone.youhuijia=3000
         iphone.zhekou=3.0
@@ -116,4 +126,3 @@
 
 
 </script>
-
