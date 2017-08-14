@@ -2,35 +2,379 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112f446e-4aee-4f6a-b6fd-399bcf8d828f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/OOP.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/liliwa.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/03 构造函数与普通函数的区别.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/01.实例化的本质.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/02.二进制 指针.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/01 只使用构造函数创建对象.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/01 只使用构造函数创建对象.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/02 四种创建方式.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/02 四种创建方式.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/05 面试题.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/05 面试题.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/00 万物皆属性.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/00 万物皆属性.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/01 万物皆变量.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/01 万物皆变量.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/02 get set.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/02 get set.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/03 get set 日期.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/03 get set 日期.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/05 权限设置.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/05 权限设置.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/00 定义.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/00 定义.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/01 改造前面案例成bindDOM bindEvents.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/01 改造前面案例成bindDOM bindEvents.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/03 私有成员的引入.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/03 私有成员的引入.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/04 config.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/04 config.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/01 数据类型复习 - 五大数据类型.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/01 数据类型复习 - 五大数据类型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 call.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 call.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 数据类型检测进阶.html" afterPath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 数据类型检测进阶.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/02 面向对象进阶.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/01 只使用构造函数创建对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/02 四种创建方式.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/03 构造函数与普通函数的区别.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/05 面试题.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/00 万物皆属性.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/01 万物皆变量.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/02 get set.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/03 get set 日期.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/04 get set 日期 扩展性知识.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/05 权限设置.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/00 定义.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/01 改造前面案例成bindDOM bindEvents.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/02 init函数的引入.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/03 私有成员的引入.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/04 config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/05 命名规范化.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/01 数据类型复习 - 五大数据类型.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/02 数据类型复习 - 数据类型检测的重要性.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 call.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 数据类型检测进阶.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/04 数据类型判断 函数封装.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/05 jquery判断数据类型.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/06 封装到对象中.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/01.实例化的本质.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/02.二进制 指针.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/02 原型链.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/03 属性屏蔽理论.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/04 面试题目.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/05 hasOwnProperty.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/06 hasOwnProperty 对象字面量.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/07 constructor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/08 for in.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/09 for in 2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/10 for in json.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/00 复习原型对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/01 构造函数 原型.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/01 通过前面讲过的百度案例讲解对象基本术语.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/02 字面量.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/03 互联网世界都是二进制世界/html5webpiano.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/03 互联网世界都是二进制世界/html5webpiano.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/03 互联网世界都是二进制世界/image/key_back_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/03 互联网世界都是二进制世界/image/key_back_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/03 互联网世界都是二进制世界/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/04 继承.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/05 多态.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/06 重载.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/07 覆写.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/ICD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/01 变量的内存分配 数值型.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/02 变量的内存分配 字符串.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/03 变量的内存分配 数组.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/04 变量的内存分配 函数 - 本质是对象类型.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/05 变量的内存分配 对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/06 总结 引用类型和值类型.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/07 练习 面试题目理解概念/引用类型和值类型面试题.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/07 面试题.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/08 课后练习.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/01 object/01 object.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/02 工厂/01工厂模式创建对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/02 工厂/02 工厂模式 优化.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/03 构造/基于构造函数.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/04 原型/01 原型创建.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/04 原型/02 存在的问题.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/05 混合方式 -  构造+原型/01 基础.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/06 字面量形式/01 字面量对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/07 拷贝模式/01 拷贝创建对象原理 - 所有人都会.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/07 拷贝模式/02 拷贝创建对象原理 - 进阶 - 基础好的同学研究下.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/07 拷贝模式/03 放入框架中- 练习 - 使用框架完善代码.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/07 拷贝模式/04 练习答案.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/07 拷贝模式/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/01 第三方框架 - base2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/02 第三方框架 simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/base2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/simplejavascriptinheritance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/.idea/俄罗斯方块.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/data/res.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/images/block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/CellBlock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/FrameTool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/Map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/ResourceManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/UnitBlock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/game.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/js/simplejavascriptinheritance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/其他/IMG_0743.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/俄罗斯方块/其他/俄罗斯方块放方块图.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/01 object.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/02 字面量.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/03 工厂模式.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/04 构造函数.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/05 原型对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/06 拷贝.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/学生练习 产品对象/07 第三方框架.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/.idea/打砖块游戏.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/app.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/data/res.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/images/ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/images/block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/images/racket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/Ball.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/Block.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/BlockManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/FrameTool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/Racket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/ResourceManager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/game.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/js/simplejavascriptinheritance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/06 多种方式创建对象/08 第三方框架 - 别人写好的经典框架/打砖块游戏/碰撞示意图.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/css/etalage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/arrow2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/c1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/c2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/c3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/close1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/f_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/grid_view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/list_view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/pic9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/s8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/tick1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/images/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/cbpViewModeSwitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/classie1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/easyResponsiveTabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/jquery.etalage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/jquery.flexisel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/jquery.wmuSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/js/simplejavascriptinheritance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/scripts/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/scripts/cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/scripts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/07 练习 - 使用第三方框架创建对象形式改造案例/scripts/product.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/01 正则表达式复习.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/01 用户名 密码校验.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/02 封装trim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/03 只能是数字 -- qq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/04 只能是9位数字.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/05 5位以上 - QQ一般都是5位以上.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/06 QQ号码一般是5--12位.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/06 匹配6--12字母.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/07 用户名必须是邮箱.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/08 其他.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/01 为什么需要动态生成元素.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/02 动态生成元素jquery版本.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/05 数据绑定 format.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/06 将format放入框架中.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/07 replace高级用法.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/08 replace用法案例.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/ICD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/css/etalage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/arrow2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/c1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/c2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/c3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/close1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/f_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/grid_view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/list_view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/pic9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/s8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/tick1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/images/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/cbpViewModeSwitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/classie1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/easyResponsiveTabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/jquery.etalage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/jquery.flexisel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/jquery.wmuSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/js/simplejavascriptinheritance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/scripts/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/scripts/cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/scripts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/scripts/product.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/01 模板基础语法.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/02 封装成一个函数.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/03 放入框架中.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/04 绑定集合.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/05 字符串拼接中使用模板语法.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/06 封装成一个函数.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/07 放入框架中.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/css/etalage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/arrow2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/c1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/c2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/c3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/close1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/f_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/grid_view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/list_view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/pic9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/s8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/tick1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/images/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/cbpViewModeSwitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/classie1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/easyResponsiveTabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/jquery.etalage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/jquery.flexisel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/jquery.wmuSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/simplejavascriptinheritance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/js/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/scripts/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/scripts/cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/scripts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/04 使用模板技术改造案例/scripts/product.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/ICD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/football.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/logo_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/news.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/baidu/xingzuo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/img/arrow_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/itcast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/worldcup/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/xingzuo/xingzuo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/yinyue/fm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/yinyue/fm_go.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/05 百度星座案例/面向对象案例 - 百度星座模块.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/jquery-1.11.3.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,110 +388,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="04 config.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/04 config.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="74" column="46" lean-forward="false" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01.实例化的本质.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/01.实例化的本质.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02.二进制 指针.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/02.二进制 指针.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01 数据类型复习 - 五大数据类型.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/01 数据类型复习 - 五大数据类型.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-              <folding>
-                <marker date="1502688731000" expanded="true" signature="276:285" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="00 定义.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/00 定义.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-217">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02 数据类型复习 - 数据类型检测的重要性.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/02 数据类型复习 - 数据类型检测的重要性.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03 call.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 call.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03 数据类型检测进阶.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 数据类型检测进阶.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="90" column="66" lean-forward="false" selection-start-line="90" selection-start-column="66" selection-end-line="90" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05 jquery判断数据类型.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/05 jquery判断数据类型.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04 数据类型判断 函数封装.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/04 数据类型判断 函数封装.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -181,6 +422,18 @@
         <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/01 数据类型复习/03 数据类型检测进阶.html" />
         <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/01.实例化的本质.html" />
         <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/04 对象实例化的本质/04 对象实例在内存中的存储/02.二进制 指针.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/04 面试题目.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/08 for in.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/00 复习原型对象.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/01.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/07 覆写.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/03 属性屏蔽理论.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/02 封装trim.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/01 变量的内存分配 数值型.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/09.filter.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/10.JS中的Map和Set.html" />
+        <option value="$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/07 replace高级用法.html" />
       </list>
     </option>
   </component>
@@ -236,10 +489,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="02 面向对象进阶" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -254,179 +503,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="02 面向对象进阶" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08 对象的三个作用进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 构造函数和属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04 对象实例化的本质" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04 对象实例在内存中的存储" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 构造函数和属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04 对象实例化的本质" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 构造函数和属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04 对象实例化的本质" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01 数据类型复习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 构造函数和属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03 公有属性私有属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 构造函数和属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 属性进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象第二天" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 面向对象进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02 构造函数和属性" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01 基础" />
+              <option name="myItemId" value="05 引用类型值类型" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -461,7 +542,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.10.JS中的Map和Set.html">
+    <configuration default="false" name="06 hasOwnProperty 对象字面量.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OOP/02 面向对象第二天/02 面向对象进阶/03 原型对象/06 hasOwnProperty 对象字面量.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="08 for in.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OOP/02 面向对象第二天/02 面向对象进阶/03 原型对象/08 for in.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="07 覆写.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OOP/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/07 覆写.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="09.filter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OOP/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/09.filter.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="10.JS中的Map和Set.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OOP/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/10.JS中的Map和Set.html">
+      <method />
+    </configuration>
     <configuration default="true" type="#com.siberika.idea.pascal.run.PascalConfigurationType" factoryName="Pascal executable">
       <method />
     </configuration>
@@ -525,6 +621,22 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.06 hasOwnProperty 对象字面量.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.08 for in.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.07 覆写.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.09.filter.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.10.JS中的Map和Set.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.10.JS中的Map和Set.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.09.filter.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.07 覆写.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.08 for in.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.06 hasOwnProperty 对象字面量.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -536,24 +648,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502681014906</updated>
-      <workItem from="1502681018099" duration="7078000" />
+      <workItem from="1502681018099" duration="17750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7078000" />
+    <option name="totallyTimeSpent" value="17750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -576,126 +687,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="486">
-            <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/03 构造函数与普通函数的区别.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/02 四种创建方式.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/01 只使用构造函数创建对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/01 万物皆变量.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/00 万物皆属性.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/04 get set 日期 扩展性知识.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/02 init函数的引入.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding>
-            <element signature="e#1958#2164#0" expanded="false" />
-            <element signature="e#2553#3445#0" expanded="false" />
-            <element signature="e#3476#3646#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/01 改造前面案例成bindDOM bindEvents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="75" column="30" lean-forward="true" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
-          <folding>
-            <element signature="e#1837#1904#0" expanded="false" />
-            <element signature="e#1958#2164#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/03 私有成员的引入.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="103" column="21" lean-forward="true" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-          <folding>
-            <element signature="e#697#1467#0" expanded="false" />
-            <element signature="e#2218#3109#0" expanded="false" />
-            <element signature="e#3139#3310#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/03 公有属性私有属性/05 命名规范化.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/01 基础/05 面试题.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/03 get set 日期.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/02 构造函数和属性/02 属性进阶/05 权限设置.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -732,9 +723,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <marker date="1502688731000" expanded="true" signature="276:285" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -790,6 +779,318 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
           <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/04 面试题目.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/05 hasOwnProperty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/06 hasOwnProperty 对象字面量.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/07 constructor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/08 for in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/09 for in 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/10 for in json.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/00 复习原型对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/02 原型链.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/01 构造函数 原型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="91" column="39" lean-forward="true" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/01 通过前面讲过的百度案例讲解对象基本术语.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3890">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/02 字面量.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/04 继承.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/05 多态.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/06 重载.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/04 面向对象复习和各种术语总结/07 覆写.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/03 原型对象/03 属性屏蔽理论.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/02 封装trim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/04 只能是9位数字.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/05 5位以上 - QQ一般都是5位以上.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/06 QQ号码一般是5--12位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/06 匹配6--12字母.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/08 其他.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/07 用户名必须是邮箱.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/03 使用format改造案例/itcast.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1812">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/01 为什么需要动态生成元素.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/02 动态生成元素jquery版本.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/05 数据绑定 format.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/06 将format放入框架中.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/09.filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="104" column="42" lean-forward="false" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/10.JS中的Map和Set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/01 正则表达式复习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/01 用户名 密码校验.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/01 复习对象的三种作用/03 只能是数字 -- qq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-465">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/07 replace高级用法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/05 引用类型值类型/01 变量的内存分配 数值型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 面向对象第二天/02 面向对象进阶/08 对象的三个作用进阶/02 对象常用方法bindDOM进阶/08 replace用法案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding />
         </state>
       </provider>
